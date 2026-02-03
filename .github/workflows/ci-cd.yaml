@@ -18,7 +18,7 @@ jobs:
          dotnet-version: '8.0.x'
 
       - name: Restore dependecies
-        run: dotnet Restore
+        run: dotnet restore
 
       - name: Build App 🚀
         run: dotnet build -c Release --no-restore
