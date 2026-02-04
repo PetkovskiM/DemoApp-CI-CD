@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="DemoAppCICD.Tests/DemoAppCICD.Tests.csproj" Id="d8029b84-4895-48fb-82df-9dca9b621e0f" />
   <Project Path="DemoAppCICD/DemoAppCICD.csproj" />
 </Solution>
